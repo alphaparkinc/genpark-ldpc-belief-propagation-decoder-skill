@@ -1,0 +1,17 @@
+{
+  "name": "genpark-ldpc-belief-propagation-decoder-skill",
+  "version": "1.0.0",
+  "description": "Low-Density Parity-Check (LDPC) sparse Tanner graph decoder implementing bit-flipping belief propagation and iterative syndrome convergence.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "ldpc-codes",
+    "belief-propagation",
+    "tanner-graph",
+    "sparse-matrix",
+    "channel-capacity"
+  ],
+  "dependencies": []
+}
